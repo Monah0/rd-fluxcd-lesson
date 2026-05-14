@@ -18,7 +18,8 @@ spec:
     spec:
       containers:
         - name: app
-          image: Monah0/course-app
+          image: monah0/course-app:latest
+          imagePullPolicy: Always
 
           ports:
             - containerPort: 8080
