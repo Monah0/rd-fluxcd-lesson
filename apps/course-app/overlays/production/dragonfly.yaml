@@ -5,3 +5,7 @@ metadata:
 
 spec:
   replicas: 2
+
+  image:
+    repository: docker.dragonflydb.io/dragonflydb/dragonfly
+    tag: latest
