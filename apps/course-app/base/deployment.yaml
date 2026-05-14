@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: USERNAME/course-app:latest
+          image: Monah0/course-app:latest
 
           ports:
             - containerPort: 8080
