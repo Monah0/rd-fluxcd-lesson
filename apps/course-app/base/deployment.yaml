@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: Monah0/course-app:latest
+          image: Monah0/course-app
 
           ports:
             - containerPort: 8080
