@@ -6,4 +6,4 @@ metadata:
 
 spec:
   replicas: 2
-  image: docker.dragonflydb.io/dragonflydb/dragonfly
+  image: ghcr.io/dragonflydb/dragonfly:v1.35.0
